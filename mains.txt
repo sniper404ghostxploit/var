@@ -7,5 +7,5 @@
 <a href="https://www.exploitsports.my.id/2022/09/mengenal-bug-remote-code-execution-rce.html" style="color:transparent">Mengenal Bug Remote Code Execution ( RCE )</a>
 <a href="https://www.exploitsports.my.id/2022/09/pengertian-bug-local-file-inclusion-lfi.html" style="color:transparent">Pengertian Bug Local File Inclusion ( LFI )</a>
 <a href="https://www.exploitsports.my.id/2022/09/pengertian-bug-local-file-disclosure-lfd.html" style="color:transparent">Pengertian Bug Local File Disclosure ( LFD )</a>
-</ul>S
+</ul>
 </div>
