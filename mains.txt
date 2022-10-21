@@ -6,6 +6,6 @@
 <li><a href="https://www.exploitsports.my.id/2022/09/pengertian-bug-sql-injecton-dan-cara.html" style="color:transparent">Pengertian Bug Sql Injecton Dan Cara Kerjanya</a></li>
 <li><a href="https://www.exploitsports.my.id/2022/09/mengenal-bug-remote-code-execution-rce.html" style="color:transparent">Mengenal Bug Remote Code Execution ( RCE )</a></li>
 <li><a href="https://www.exploitsports.my.id/2022/09/pengertian-bug-local-file-inclusion-lfi.html" style="color:transparent">Pengertian Bug Local File Inclusion ( LFI )</a></li>
-<li><a href="https://www.exploitsports.my.id/2022/09/pengertian-bug-local-file-disclosure-lfd.html" style="color:transparent>Pengertian Bug Local File Disclosure ( LFD )</a></li>
+<li><a href="https://www.exploitsports.my.id/2022/09/pengertian-bug-local-file-disclosure-lfd.html" style="color:transparent">Pengertian Bug Local File Disclosure ( LFD )</a></li>
 </ul> 
 </div>
