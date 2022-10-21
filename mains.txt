@@ -1,5 +1,4 @@
 <div style="color:transpaent;">
-<ul>
 <li><a href="https://www.exploitsports.my.id" style="color:transparent">EXPLOITSPORTS</a></li>
 <li><a href="https://www.exploitsports.my.id/2022/09/pengertian-bug.html" style="color:transparent">Pengertian Bug Dan Penjelasannya</a></li>
 <li><a href="https://www.exploitsports.my.id/2022/09/mengenal-nama-jenis-jenis-bug-pada.html" style="color:transparent">ngenal Nama Jenis-Jenis Bug Pada Sebuah Website</a></li>
@@ -7,5 +6,4 @@
 <li><a href="https://www.exploitsports.my.id/2022/09/mengenal-bug-remote-code-execution-rce.html" style="color:transparent">Mengenal Bug Remote Code Execution ( RCE )</a></li>
 <li><a href="https://www.exploitsports.my.id/2022/09/pengertian-bug-local-file-inclusion-lfi.html" style="color:transparent">Pengertian Bug Local File Inclusion ( LFI )</a></li>
 <li><a href="https://www.exploitsports.my.id/2022/09/pengertian-bug-local-file-disclosure-lfd.html" style="color:transparent">Pengertian Bug Local File Disclosure ( LFD )</a></li>
-</ul> 
 </div>
