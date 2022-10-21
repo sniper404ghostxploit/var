@@ -1,4 +1,4 @@
-<div style="color:transparent">
+<div style="color:transparent;">
     <ul>
     <li><a href="https://www.exploitsports.my.id" style="color:transparent">EXPLOITSPORTS</a></li>
     <li><a href="https://www.exploitsports.my.id/2022/09/pengertian-bug.html" style="color:transparent">Pengertian Bug Dan Penjelasannya</a></li>
