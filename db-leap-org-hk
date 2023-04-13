@@ -1,0 +1,5 @@
+	$hostName = "127.0.0.1";
+			$databaseName = 'leaporg_db';
+			$databasePw ='knMU7)qzpPMf';
+			$databaseUser = 'leaporg_ad';
+			break;
